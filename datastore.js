@@ -70,14 +70,14 @@ const STORE = [
         correctAnswer: 'Norma Jennings',
     },
     {
-      question: "What happened to Josie after she got shot?",
+      question: "What happened to Josie after Thomas Eckardt was shot?",
       answers: [
           'Died',
           'Became a ghost',
           'Disappeared into a lightning strike',
-          'Turned into a doorknob'
+          'Turned into a drawer knob'
       ],
-        correctAnswer: 'Turned into a doorknob',
+        correctAnswer: 'Turned into a drawer knob',
     },
     {
       question: "Who does Dale Cooper address his voice memos to?",
